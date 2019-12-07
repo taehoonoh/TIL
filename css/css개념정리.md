@@ -5,7 +5,7 @@
 
 + [중복제거효과](#중복제거효과)
 
-+ [선택자와 속성(selector,property)](#선택자와-속성(selector,property))
++ [선택자와 속성selector,property](#선택자와-속성selector,property)
 
 + ★[box model](#box-model)
 
