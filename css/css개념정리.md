@@ -5,7 +5,7 @@
 
 + [중복제거효과](#중복제거효과)
 
-+ [선택자와 속성(selector,property)](#선택자와-속성(selector,property))
++ [선택자selector 속성property](#선택자selector-속성property)
 
 + ★[box model](#box-model)
 
@@ -45,7 +45,7 @@ ex
 
 ----------------------
 
-### 선택자와 속성(selector,property)
+### 선택자selector 속성property
 
 #### 기본구조
 ~~~
